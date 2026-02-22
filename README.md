@@ -57,6 +57,14 @@ nothing exists in a vacuum. here are some of the things that inspired this idea:
 
 ## questions
 
+### am i going to be able to make a hit song with this?
+
+probably not. but maybe it'll give you some ideas to add to your song!
+
+### what sort of sample should i use?
+
+i've found that something melodic and not too dense works best. also, i like the sample to be 30 seconds or less, because the length of the sample segments are based on the total length of the sample. if you pick a very long sample, the segments will also be longer, and that means a lot more overlapping sounds. but it's entirely up to you how you use it.
+
 ### is this complete?
 
 not at all. things may get added or removed at any point. i feel like i have the basics of this down, but there's still a lot of room for improvement.
