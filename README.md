@@ -1,5 +1,7 @@
 # ceremony - glitch sampler/idea generator
 
+![ceremony track page](images/track.png)
+
 ceremony is a sampler, but it's not really a sampler you have a whole lot of control over. you give it a sample, but you don't fully control what parts of it play, or when. if you like the glitchy sounds of late 90s, early 00s electronic music and you're fine with taking your hands off the wheel, this might be for you.
 
 ## features
