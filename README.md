@@ -43,7 +43,7 @@ explore! pressing tab while on the track screen takes you through all the parame
 * pressing x takes you to the mixer, where you can view and modify levels, panning, mutes and solos
 * pressing p takes you to the project screen, where you can save and load projects as well as modify bpm and swing
 
-the project wiki has more information on what is available
+the [project wiki](https://github.com/seawaffle/ceremony/wiki) has more information on what is available
 
 ## inspirations
 
