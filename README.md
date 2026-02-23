@@ -27,6 +27,11 @@ ceremony is a sampler, but it's not really a sampler you have a whole lot of con
 * save and load projects
 * render output as wav
 
+
+here's a hastily made video showing some of ceremony's features:
+
+[![ceremony video](https://img.youtube.com/vi/l2I82hiJ1EM/0.jpg)](https://www.youtube.com/watch?v=l2I82hiJ1EM)
+
 ## how to use
 
 run the executable. you can either run it without arguments, or give it either a wav file or ceremony project file. if you've given it a file, it will begin playing immediately. if not, open a file using ctrl+o. when you open a file, each track will be given a random segment of the sample. the following things are randomized on file load per track:
@@ -43,7 +48,7 @@ explore! pressing tab while on the track screen takes you through all the parame
 * pressing x takes you to the mixer, where you can view and modify levels, panning, mutes and solos
 * pressing p takes you to the project screen, where you can save and load projects as well as modify bpm and swing
 
-the [project wiki](https://github.com/seawaffle/ceremony/wiki) has more information on what is available
+the [project wiki](https://github.com/seawaffle/ceremony/wiki) has more information on what is available, keypresses, etc
 
 ## inspirations
 
